@@ -1,0 +1,15 @@
+<view class='page'>
+  <view>
+    <ad unit-id="adunit-3da856b7029a1068"></ad>
+  </view>
+  <view class='mt20'>
+  <ad unit-id="adunit-f27a069840e71d9a"></ad>
+  </view>
+   <view class='mt20'>
+    <ad unit-id="adunit-75d70d5f84c6c8f6"></ad>
+  </view>
+
+
+
+  <view class='tc grey  mt50'>发现更多有趣的</view>
+</view>
